@@ -1,2 +1,2 @@
 # demo-lisp
-Lisp practices
+My lisp scripts for practices
